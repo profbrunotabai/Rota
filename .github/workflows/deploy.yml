@@ -55,6 +55,10 @@ jobs:
           grep -n "baseUrl" quartz.config.yaml
       - name: Gerar o site
         run: npx quartz build
+      - name: Traduzir textos da busca # o plugin de busca escreve estes textos em inglês
+        run: |
+          find public -name "*.html" -exec sed -i 's#<title>Search</title>#<title>Pesquisar</title>#g' {} +
+          find public -name "*.js" -exec sed -i 's#Search results#Resultados da pesquisa#g' {} +
       - name: Enviar o site gerado
         uses: actions/upload-pages-artifact@v3
         with:
