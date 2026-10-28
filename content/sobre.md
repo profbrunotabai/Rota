@@ -13,8 +13,11 @@ Autor: *Professor Bruno Tabai*, professor de Matemática.
 - Os vídeos indicados são de fontes gratuitas, como o Portal da Matemática (OBMEP) e a Khan Academy.
 
 ## Uso do material
-%% Confirme a licença antes de divulgar. Sugestão do plano: CC BY-NC-SA 4.0. %%
-Professores podem usar o material com suas turmas, citando a fonte. O conteúdo está sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): pode ser compartilhado e adaptado, sem fins comerciais e com a mesma licença.
+O conteúdo deste mapa está sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): você pode copiar, compartilhar e adaptar, desde que cite a fonte, não use para fins comerciais e mantenha a mesma licença nas adaptações.
+
+Professores podem usar o material em sala de aula em qualquer escola, pública ou particular. Para usos comerciais, como cursos pagos, livros e aplicativos, peça autorização ao autor.
+
+A marca R.O.T.A. / Rota do Infinito e os personagens Phi e Áurea não estão incluídos nesta licença.
 
 ## Privacidade
 Este site não tem anúncios e não pede cadastro.
