@@ -6,7 +6,7 @@ O **R.O.T.A.** (Rede Orgânica de Trilhas e Autonomia) faz parte do projeto **Ro
 
 ## Quem faz
 %% Preencha com seu nome e uma linha sobre você antes de divulgar o site. %%
-Autor: *(nome do autor)*, professor de Matemática do Ensino Fundamental 2 e do Ensino Médio.
+Autor: *Professor Bruno Tabai*, professor de Matemática.
 
 ## Como o mapa é organizado
 - Cada **nó** é uma habilidade, com pré-requisitos, explicação, exemplo resolvido, erro comum, exercícios e um diagnóstico "Já domino?".
