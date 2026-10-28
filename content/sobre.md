@@ -5,7 +5,6 @@ description: "O que é o R.O.T.A., quem faz e como usar o material."
 O **R.O.T.A.** (Rede Orgânica de Trilhas e Autonomia) faz parte do projeto **Rota do Infinito**, que transforma o aprendizado de matemática numa jornada de descoberta: entender como os conceitos se conectam, por que fazem sentido e como avançar com autonomia.
 
 ## Quem faz
-%% Preencha com seu nome e uma linha sobre você antes de divulgar o site. %%
 Autor: *Professor Bruno Tabai*, professor de Matemática.
 
 ## Como o mapa é organizado
